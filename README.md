@@ -1,2 +1,3 @@
-# hello-world
-Hello World Test Repository
+# Hello World
+
+Hello World Test for the first repository.
